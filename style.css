@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin: 1rem auto;
+}
+
+.container {  
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+    margin-top: 1.5rem;
+    }  
+
+button {  
+    font-size: 1rem;  
+    }  
