@@ -1,2 +1,2 @@
 # moyenneMSDHT
-This was a web application I made for my classmates to help them calculate their final Score.
+In the early phases of my journey as a self-taught software engineering student, I undertook the creation of this web application. With a dual intent of challenging my skills in HTML, CSS, and JavaScript and providing practical assistance to both myself and classmates, this project stands as a testament to early exploration and collaborative learning in our academic pursuits. Dive into the foundations of my coding odyssey through this endeavor.
